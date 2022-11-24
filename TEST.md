@@ -8,6 +8,8 @@
 
 ### Add IP Form
 
+![Add Form](/images/add-form.png)
+
 - Added IP address goes to the approval table
 - Ping IP address:
   - If online and unregistered, IP address goes to unregistered table and cannot submit
@@ -19,6 +21,8 @@
   - Check for registered IP(approved/rejected)
 
 ### Edit IP Form
+
+![Edit Form](/images/edit-form.png)
 
 - Edited IP address goes to the approval table
 - Editable field:
@@ -33,10 +37,14 @@
 
 ### Register User Form
 
+![Register Form](/images/register-user.png)
+
 - Register user:
   - If already registered, throw error
 
 ### Edit User From
+
+![Edit User](/images/edit-user.png)
 
 - Editable field:
   - username
