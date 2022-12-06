@@ -2,21 +2,24 @@
 
 ## Server Config
 
+This informs the PLN's Server Environment on East Java.
+
 ### front end
 
-- language: html, css, javascript
+- language: html, css, javascript (node 16.17.0)
 - framework: react js, ant design
 - port:8081
 
 ### backend
 
-- language: go
+- language: go v1.18
 - framework: gin, gorm
 - port:8080
 
 ### database
 
 - postgresql
+- dbname:   ip_address_inventory
 - username: postgres
 - password: atopiot222
 - port: 8082
