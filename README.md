@@ -20,3 +20,9 @@
 - username: postgres
 - password: atopiot222
 - port: 8082
+
+## Flow
+
+### Add Form Flow
+
+![Add Form](/images/add-form.png)
