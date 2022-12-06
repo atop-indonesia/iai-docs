@@ -13,6 +13,7 @@ This informs the PLN's Server Environment on East Java.
 - language: html, css, javascript (node 16.17.0)
 - framework: react js, ant design
 - port:8081
+For more details click ![here](https://github.com/atop-indonesia/ip-addr-inventory)
 
 ### backend
 
