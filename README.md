@@ -4,6 +4,10 @@
 
 This informs the PLN's Server Environment on East Java.
 
+### remote server
+
+- anydesk: 597 958 885
+
 ### front end
 
 - language: html, css, javascript (node 16.17.0)
